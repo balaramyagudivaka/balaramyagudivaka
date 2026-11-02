@@ -2,7 +2,7 @@
 
 **Data Science MS @ Stony Brook University** · Machine Learning · LLMs · Data Analytics · Software Engineering
 
-I build data-driven and AI-powered solutions to real-world problems, from fine-tuning large language models on a single GPU to forecasting global CO₂ emissions with leakage-safe ML pipelines.
+I build data-driven and AI-powered solutions to real-world problems, from fine-tuning large language models on a single GPU to building leakage-safe ML pipelines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-ramya-gudivaka-54731424b/)
 
@@ -20,7 +20,7 @@ Built the access-control layer of a graph RAG system that must not leak document
 
 ## 📈 Machine Learning & Forecasting
 
-**[Global CO₂ Emissions: Drivers, Clusters & Forecasting](https://github.com/balaramyagudivaka/global-co2-emissions-analysis)**
+**[Global CO₂ Emissions: Drivers, Clusters & Forecasting](https://github.com/balaramyagudivaka/global-co2-emissions-analysis)** · 5-person team project
 Benchmarked 14 forecasting models, including the TimesFM and PatchTST foundation models, on a strict time-based split; found and fixed data leakage; best model reached test R² = 0.989.
 `scikit-learn` `XGBoost` `TensorFlow` `PyTorch` `Hugging Face`
 
@@ -30,7 +30,7 @@ Benchmarked 14 forecasting models, including the TimesFM and PatchTST foundation
 Ranked 41K bank clients by likelihood to subscribe so that calling the top 20% reaches 66% of all subscribers (3.3× better than random). Leakage-safe pipelines, cross-validated model comparison on PR-AUC, threshold tuning, and automated tests.
 `Python` `scikit-learn` `pandas` `Matplotlib` `pytest` `GitHub Actions`
 
-**[Global CO₂ Emissions Analysis](https://github.com/balaramyagudivaka/global-co2-emissions-analysis)**
+**[Global CO₂ Emissions Analysis](https://github.com/balaramyagudivaka/global-co2-emissions-analysis)** · 5-person team project
 Regularized regression, four clustering methods (K-Means, Hierarchical, DBSCAN, GMM) and fixed-effects panel models on 2,640 country-years of Our World in Data data.
 `R` `tidyverse` `glmnet` `plm` `PCA` `clustering`
 
