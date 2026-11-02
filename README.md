@@ -26,6 +26,10 @@ Benchmarked 14 forecasting models, including the TimesFM and PatchTST foundation
 
 ## 📊 Data Analysis & Statistics
 
+**[Who Will Subscribe? Bank Marketing Classification](https://github.com/balaramyagudivaka/bank-marketing-ml)**
+Ranked 41K bank clients by likelihood to subscribe so that calling the top 20% reaches 66% of all subscribers (3.3× better than random). Leakage-safe pipelines, cross-validated model comparison on PR-AUC, threshold tuning, and automated tests.
+`Python` `scikit-learn` `pandas` `Matplotlib` `pytest` `GitHub Actions`
+
 **[Global CO₂ Emissions Analysis](https://github.com/balaramyagudivaka/global-co2-emissions-analysis)**
 Regularized regression, four clustering methods (K-Means, Hierarchical, DBSCAN, GMM) and fixed-effects panel models on 2,640 country-years of Our World in Data data.
 `R` `tidyverse` `glmnet` `plm` `PCA` `clustering`
@@ -42,7 +46,7 @@ Regularized regression, four clustering methods (K-Means, Hierarchical, DBSCAN, 
 **ML / AI:** PyTorch · TensorFlow · scikit-learn · XGBoost · Hugging Face Transformers · PEFT / LoRA · FAISS
 **Data:** pandas · NumPy · tidyverse · Matplotlib · Jupyter
 **Web:** React · Vite · Tailwind CSS
-**Tools:** Git · GitHub · Google Colab · CUDA
+**Tools:** Git · GitHub · GitHub Actions · pytest · Google Colab · CUDA
 
 ---
 
