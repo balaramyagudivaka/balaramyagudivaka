@@ -14,6 +14,10 @@ I build data-driven and AI-powered solutions to real-world problems, from fine-t
 Fine-tuned a 7B-parameter LLM on a free T4 GPU by training only 0.19% of its weights (4-bit QLoRA), cutting held-out perplexity by 60%, and added a FAISS-based RAG pipeline for grounded answers.
 `PyTorch` `Hugging Face` `PEFT` `bitsandbytes` `FAISS` `Sentence-Transformers`
 
+**[Permission-Scoped Graph RAG](https://github.com/ArnavDesai235/AMS691)** · team project ([my contribution](https://github.com/ArnavDesai235/AMS691/pull/2))
+Built the access-control layer of a graph RAG system that must not leak documents to users without permission: three enforcement strategies (C1–C3), access-set cache keys, the experiment runner and leakage metrics, with unit tests (1,600+ lines).
+`Python` `LightRAG` `RAG` `Access control` `pytest`
+
 ## 📈 Machine Learning & Forecasting
 
 **[Global CO₂ Emissions: Drivers, Clusters & Forecasting](https://github.com/balaramyagudivaka/global-co2-emissions-analysis)**
